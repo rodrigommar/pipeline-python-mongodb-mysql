@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignorar o arquivo .env
+.env
+
+# Ignorar a pasta .venv (assumindo que está no diretório raiz)
+.venv/
+
+# arquivo de log
+cpy-errors.log
